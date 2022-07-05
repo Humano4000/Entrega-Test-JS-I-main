@@ -60,6 +60,7 @@ function divide(x, y) {
   // Tu código:
   return x / y;
 
+
 }
 
 function sonIguales(x, y) {
@@ -115,7 +116,7 @@ function obtenerResto(x, y) {
 }
 
 function esPar(num) {
-  // Devuelve "true" si "num" es par
+  // Devuelve "true" si num es par
   // De lo contrario, devuelve "false"
   // Tu código:
   if(num%2===0){
